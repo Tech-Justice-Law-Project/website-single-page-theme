@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-These are some of our public initiatives.  Click the {{<icon class="fa fa-arrow-circle-down">}} icon to view more information or the latest product.
+These are some of our public initiatives.  Click the {{<icon class="fa fa-arrow-circle-down">}} icon to download the latest product.
 
 | Initiative   |   Link   |  Version |
 |----------|:------:|:------:|
