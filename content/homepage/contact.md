@@ -7,7 +7,7 @@ header_menu: true
 Please complete the form and someone will be contact you shortly.
 
 <div class="container">
-  <form action="/action_page.php">
+  <form name="contact" action="https://script.google.com/macros/s/AKfycbzbzTtR4nRhdY816nbuRiXdtRfMF5VVZsr-mr_Ji-8WVxou0_roY8dLT2uTC7dyNySi/exec" method="GET">
     <div class="row">
       <div class="col-100">
         <input type="text" id="name" name="name" placeholder="Name">
