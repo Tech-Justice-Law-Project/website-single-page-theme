@@ -9,8 +9,11 @@ header_use_video: false
 header_logo: "images/logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
+#header_headline: "Shaping a Safer Internet"
+#header_subheadline: "Advancing Tech Policy & Legislation "
 header_headline: "Shaping a Safer Internet"
 header_subheadline: "Advancing Tech Policy & Legislation "
+
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
